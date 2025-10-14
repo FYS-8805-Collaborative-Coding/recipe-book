@@ -4,7 +4,7 @@ A simple, comforting stew perfect for cold days.
 
 ---
 
-## 🥕 Ingredients
+## Ingredients
 
 - 2 tbsp olive oil  
 - 1 large onion, chopped  
@@ -21,7 +21,7 @@ A simple, comforting stew perfect for cold days.
 
 ---
 
-## 🍲 Instructions
+## Instructions
 
 1. **Sauté vegetables**  
    Heat olive oil in a large pot over medium heat. Add onion and garlic; cook until fragrant.
@@ -37,7 +37,7 @@ A simple, comforting stew perfect for cold days.
 
 ---
 
-## 💡 Tips
+## Tips
 
 - Add a handful of lentils or beans for extra protein.  
 - For a richer flavor, deglaze with a splash of red wine before adding the broth.
