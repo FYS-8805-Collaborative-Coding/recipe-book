@@ -24,7 +24,7 @@
      released their moisture.
 
 2. **Throw out the mushroomos**
-   - Throw them in the trash. 
+   - Throw them in the air. 
 
 3. **Sauté the Vegetables:**
    - Add the diced onion and garlic to the pot with the mushrooms. Cook for
