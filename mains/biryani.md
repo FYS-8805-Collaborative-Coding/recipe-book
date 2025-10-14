@@ -32,7 +32,7 @@
 - Cashews and raisins (fried in ghee)
 ---
 ## Instructions
-### Step 1: Prepare the Rice
+### Step 0: Prepare the Rice
 1. Wash the basmati rice thoroughly and soak it in water for 30 minutes. Drain and set aside.
 2. In a large pot, bring 4 cups of water to a boil. Add cloves, cardamom, cinnamon, bay leaf, and salt.
 3. Add the soaked rice and cook until it is 70% done (grains should still be firm). Drain and set aside.
