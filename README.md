@@ -16,3 +16,7 @@ towards the template repository.
 - [mains](mains)
 - [sides](sides)
 - [desserts](desserts)
+
+## Citing this recipe book
+
+- Awesome recipe book, 2025, Nature
