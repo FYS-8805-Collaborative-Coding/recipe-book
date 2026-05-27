@@ -19,4 +19,4 @@ towards the template repository.
 
 ## Citing this recipe book
 
-- Awesome recipe book, 2025, Nature
+- Awesome recipe book, 2026, Nature
