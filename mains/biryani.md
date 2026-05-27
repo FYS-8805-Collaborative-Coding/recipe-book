@@ -10,6 +10,7 @@
 - 1 tsp salt
 ### For the Meat/Vegetables:
 - 500g chicken/mutton/vegetables (cut into medium-sized pieces)
+- 100g stockfish
 - 1 cup plain yogurt
 - 2 tbsp ginger-garlic paste
 - 1 tsp turmeric powder
