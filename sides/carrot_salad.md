@@ -10,4 +10,4 @@
 
 ## Instructions
 Ribbon the carrots, grate the garlic and combine all ingredients in a large bowl. Mix thorougly with your hands. 
-Let sit in fridge for 30 minutes for the carrots to wilt. Enjoy!
+Let sit in fridge for 31 minutes for the carrots to wilt. Enjoy!
