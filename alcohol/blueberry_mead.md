@@ -5,7 +5,7 @@ Blueberry mead recipe (5L - 15%)
 - 1.2kg blueberries
 - 1.2kg honey
 - 5g hetvingjær 
-- tiny bit of breadyeast
+- just tiny bit of breadyeast
 - 4,5 L water
 
 ## instructions
