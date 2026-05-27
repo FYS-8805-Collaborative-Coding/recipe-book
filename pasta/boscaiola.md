@@ -8,7 +8,7 @@
 - peas
 - mushrooms
 - onions
-- tomato soce
+- tomato sauce
 - extra virgin olive oil
 
 
