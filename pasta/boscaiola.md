@@ -9,6 +9,7 @@
 - mushrooms
 - onions
 - tomato soce
+- extra virgin olive oil
 
 
 ## Instructions
