@@ -8,6 +8,7 @@
 - peas
 - mushrooms
 - onions
+- extra virgin olive oil
 
 
 ## Instructions
